@@ -22,8 +22,8 @@ STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
 ```
-REG NO : 212224240092
-NAME   : MOHAMED RIYAZ AHAMED
+REG NO : 212224040322
+NAME   : SOMESHWAR S
 ```
 ```
 import pandas as pd
